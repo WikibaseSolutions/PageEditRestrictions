@@ -1,0 +1,12 @@
+{
+        "@metadata": {
+                "authors": [
+                        "Pim Bax"
+                ]
+        },
+        "pageeditrestrictions-desc": "Allows to restrict editing on some pages to specific user and allowed user groups",
+        "right-editrestrictedpages": "Edit restricted pages",
+        "action-editrestrictedpages": "edit this restricted page",
+        "pageeditrestrictions-condition": " #<pre>\n# List conditions to test the user's email address against.\n# If one of the conditions is met, editing access will be granted.\n# Use $1 in place of the user's email address and $2 in place of the page name.\n# Lines starting with a # will be ignored.",
+        "pageeditrestrictions-restricted-pages": " #<pre>\n# List regular expressions for pages to have restricted access below.\n# Lines starting with a # will be ignored."
+}

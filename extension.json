@@ -1,0 +1,11 @@
+"ResourceModules": {
+	"ext.PageEditRestrictions": {
+		"messages": [
+			"pageeditrestrictions-desc",
+			"right-editrestrictedpages",
+			"action-editrestrictedpages",
+			"pageeditrestrictions-condition",
+			"pageeditrestrictions-restricted-pages"
+		]
+	}
+}
